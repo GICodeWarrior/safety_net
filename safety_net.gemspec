@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/safety_net.rb",
+     "safety_net.gemspec",
      "spec/safety_net_spec.rb",
      "spec/spec.opts",
      "spec/spec_helper.rb"
