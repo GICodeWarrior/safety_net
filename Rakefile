@@ -5,9 +5,9 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "safety_net"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
-    gem.email = "rusty@heyzap.com"
+    gem.summary = %Q{Backup/restore a mysql table in rails.}
+    gem.description = %Q{Backup/restore a mysql table in rails.  Great for crazy data migrations where you want to keep a copy of the table.}
+    gem.email = "GICodeWarrior@gmail.com"
     gem.homepage = "http://github.com/GICodeWarrior/safety_net"
     gem.authors = ["Rusty Burchfield"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
