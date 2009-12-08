@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Rusty Burchfield"]
-  s.date = %q{2009-12-04}
+  s.date = %q{2009-12-07}
   s.description = %q{Backup/restore a mysql table in rails.  Great for crazy data migrations where you want to keep a copy of the table.}
   s.email = %q{GICodeWarrior@gmail.com}
   s.extra_rdoc_files = [
